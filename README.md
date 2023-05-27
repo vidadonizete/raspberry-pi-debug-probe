@@ -63,3 +63,5 @@ Error: unable to find a matching CMSIS-DAP device
 
 To fix, you need to add your device into udev permission.
 Execute ./configure.sh and your life will be great.
+
+![A gif showing debug running](image/debugging.gif "debugging")
